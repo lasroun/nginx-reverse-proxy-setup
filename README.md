@@ -1,4 +1,4 @@
-# Nginx Reverse Proxy - Ubuntu Configuration Repository
+# Nginx Reverse Proxy - Ubuntu Configuration
 
 ## Prerequisites:
 - Ubuntu Server
